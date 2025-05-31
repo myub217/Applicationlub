@@ -1,4 +1,4 @@
-,#!/data/data/com.termux/files/usr/bin/bash
+#!/data/data/com.termux/files/usr/bin/bashn/bash
 # setup-termux.sh
 
 echo "🛠️ เริ่มตั้งค่า Termux Dev Toolkit..."
